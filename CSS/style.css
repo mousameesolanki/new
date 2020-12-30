@@ -1,0 +1,27 @@
+footer {
+background:rgba(240,0,0,.5);
+}
+h2{
+	font-style:bold;
+	background:rgba(0,240,0,.5);
+	color:black;
+}
+header {
+background:#ff2200;
+color:#00f0ff;
+text-align:center;
+font-size:150%;
+}
+details`{
+	font-style:italic;
+	color:yellow;
+}
+summary{
+	font-style:normal;
+	color:red;
+}
+nav {
+	display:block;
+	background:#b3b3b3;
+}
+	

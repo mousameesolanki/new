@@ -1,0 +1,33 @@
+table{
+margin:0 auto;
+font-family:"Trebuchet MS",Arial,Hekvitta,sans-serif;
+width:65%;
+height:80vh;
+overflow-y:auto;
+}
+th,td{
+border:1px solid #f6f6f6;
+padding:8px;
+vertical-align:middle;
+
+}
+tr{
+background:linear-gradient(to bottom right,#e4f5d4,#f8f8f8);
+opacity:.8;
+text-align:center;
+}
+tr:hover{
+opacity:1;
+}
+tr th{
+background:linear-gradient(to right,green,#4c7615);
+opacity:.8;
+-webkit-border-radius:5px 5px 0px 0px;
+-ms-border-radius:5px 5px 0px 0px;
+-o-border-radius:5px 5px 0px 0px;
+color:#ffffff;
+text-shadow:2px 2px red;
+}
+th:first-child,td:first-child{
+text-align:left;
+}
